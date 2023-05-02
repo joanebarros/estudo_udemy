@@ -1,0 +1,9 @@
+
+f
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( þÍ¾
+g
+java:S1104"QMake price a static final constant or non-public and provide accessors if needed.(¢ì­ 
+o
+java:S1104"TMake quantity a static final constant or non-public and provide accessors if needed.(Éô£ßýÿÿÿÿ
+ž
+java:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(î—Ùš8úÖÀÞå0
